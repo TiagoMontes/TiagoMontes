@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Frontend and Backend**
 
-- 📫 How to reach me **tiagosantos6303@gmail.com**
+- 📫 How to reach me: **tiagosantos6303@gmail.com**
 
-- ⚡ Fun fact **I have been playing League of Legends for over 10 years.**
+- ⚡ Fun fact: **I have been playing League of Legends for over 10 years.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

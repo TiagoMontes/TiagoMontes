@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Charlie**
 
-- 🌱 I’m currently learning **React, Next, Typescript and Symfony. As a hobby, I study and develop a game in C++.**
+- 🌱 I’m currently learning **React, Next, Typescript and Symfony. As a hobby, I study and develop in other languages ​​out of curiosity .**
 
-- 💬 Ask me about **Frontend and Backend**
+- 💬 Ask me about **Backend and Frontend**
 
 - 📫 How to reach me: **tiagosantos6303@gmail.com**
 
-- ⚡ Fun fact: **I have been playing League of Legends for over 10 years.**
+- ⚡ Fun fact: **I have been playing League of Legends for over 10 years. This is sad info but ok**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

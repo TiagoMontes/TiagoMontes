@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Charlie**
 
-- 🌱 I’m currently learning **React, Next, Typescript and Symfony. As a hobby, I study and develop in other languages ​​out of curiosity .**
+- 🌱 I’m currently working with **React, Next, Typescript and Symfony. As a hobby, I study and develop in Java, C++, Express and others .**
 
 - 💬 Ask me about **Backend and Frontend**
 

@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Charlie**
 
-- 🌱 I’m currently working with **React, Next, Typescript and Symfony. As a hobby, I study other languages.**
+- 🌱 I’m currently working with **React, Next, Typescript and Symfony. As a hobby, I learn other languages (Like Norwegian, Italian).**
 
-- 💬 Ask me about **Backend and Frontend**
+- 💬 Ask me about **Frontend and Backend**
 
 - 📫 How to reach me: **tiagosantos6303@gmail.com**
 

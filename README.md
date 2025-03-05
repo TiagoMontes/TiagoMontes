@@ -1,15 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tiago Montes</h1>
-<h3 align="center">A beautiful and great Fullstack developer from Brazil</h3>
+<h1 class="text-4xl font-bold text-center mb-4">Tiago Montes 👨‍💻</h1>
+<h2 class="text-2xl text-center text-gray-600 mb-8">Full Stack Developer | Web Technologies Specialist</h2>
 
-- 🔭 I’m currently working on **Charlie**
-
-- 🌱 I’m currently working with **React, Next, Typescript and Symfony. As a hobby, I learn other languages (Like Norwegian, Italian).**
-
-- 💬 Ask me about **Frontend and Backend**
-
-- 📫 How to reach me: **tiagosantos6303@gmail.com**
-
-- ⚡ Fun fact: **I'm learning Norwegian. I want to be able to live there in the future **
+<p>As a passionate Full Stack Developer from Brazil, I bring expertise in crafting robust and innovative web applications. My technical toolkit spans frontend and backend technologies, with a focus on creating efficient, scalable solutions.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,6 +61,9 @@
   </a>
   <a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" alt="zustand" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="zustand" width="40" height="40"/>
   </a>
   <a href="https://jotai.org/" target="_blank" rel="noreferrer">
     <img src="https://jotai.org/favicon.svg" alt="jotai" width="40" height="40"/>
